@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "b485",
+      "name": "jaka",
+      "price": "20000$",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmBhBN-Hoq-cPTqgzGTSzmw4lP0CqwmLIJw&usqp=CAU"
+    },
+    {
+      "id": "51e0",
+      "name": "gtgt",
+      "price": "300$",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLzrrq1-n5BRhtmAG6k-oekYLUxGJaFdqZvzjN0s6xM3457AYn3gom8gKO-0_BCuOTn0&usqp=CAU"
+    },
+    {
+      "id": "c682",
+      "name": "ghjk",
+      "price": "400$",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjN5BiRUsqeLS_PP-uOEtd5hfw9Vk2zTUZm_-ueUstnbn_YhbXnWOYRVxILfqHDFtsM3c&usqp=CAU"
+    }
+  ]
+}
